@@ -1,0 +1,30 @@
+num_vec <- c(1, 2.5, 3, 4.75)
+2	+
+3	+
+char_vec <- c("apple", "banana", "kiwi")
+4	+
+5	+
+6	+
+log_vec <- c(TRUE, FALSE, TRUE)
+7	+
+8	+
+9	+
+cat("Numeric Vector:\n")
+10	+
+print(num_vec)
+11	+
+cat("Type:", typeof(num_vec), "\n\n")
+12	+
+13	+
+cat("Character Vector:\n")
+14	+
+print(char_vec)
+15	+
+cat("Type:", typeof(char_vec), "\n\n")
+16	+
+17	+
+cat("Logical Vector:\n")
+18	+
+print(log_vec)
+19	+
+cat("Type:", typeof(log_vec), "\n")
